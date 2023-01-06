@@ -1,0 +1,9 @@
+/* Write your CSS code here */
+.first-line {
+  display: flex;
+  justify-content: space-between;
+  width: 100vw;
+}
+li {
+  width: 100vw;
+}
